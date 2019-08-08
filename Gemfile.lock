@@ -76,10 +76,10 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.6)
   jekyll-archives
-  jekyll-feed (~> 0.6)
-  jekyll-paginate
-  jekyll-sitemap
-  minima (~> 2.0)
+  jekyll-feed (~> 0.12.1)
+  jekyll-paginate (~> 1.1.0)
+  jekyll-sitemap (~> 0.11.0)
+  minima (~> 2.5.0)
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.0)
