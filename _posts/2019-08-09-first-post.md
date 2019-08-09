@@ -1,5 +1,5 @@
 ---
-title:  "github.io 블로그 시작하기"
+title:  "2019_08_09_TIL"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
