@@ -275,7 +275,7 @@ tag_archive:
 #header
 
 header :
-  image: /assets/images/header.jpg
+  image: /assets/images/header.jpeg
   image_description: "A description of the image"
   actions:
    - label: "More Info"
