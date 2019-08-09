@@ -7,7 +7,7 @@ gems:
 
 exclude:
   - "/vendor/"
-remote_theme : blcentra/centrarium
+jekyll-remote-theme : blcentra/centrarium
 
 # Site settings
 title: Centrarium
