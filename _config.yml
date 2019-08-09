@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Dangu"
-  avatar           : "/assets/images/profile.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/profile.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "회사에서 코딩하고 집에서 웹소설 연재중"
   location         : "South Korea"
   email            : #"swhyun92@gamil.com"
