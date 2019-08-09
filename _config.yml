@@ -111,7 +111,7 @@ author:
   avatar           : "/assets/images/profile.jpeg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "회사에서 코딩하고 집에서 웹소설 연재중"
   location         : "South Korea"
-  email            : "swhyun92@gamil.com"
+  email            : #"swhyun92@gamil.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
