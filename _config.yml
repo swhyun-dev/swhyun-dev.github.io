@@ -275,8 +275,10 @@ tag_archive:
 #header
 
 header :
-  image: /assets/images/header.jpeg
+  image: /assets/images/header.jpg
   image_description: "A description of the image"
+  actions:
+   - label: "More Info"
 
 
 # HTML Compression
