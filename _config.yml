@@ -274,12 +274,9 @@ tag_archive:
 
 #header
 
-header :
+header:
   image: /assets/images/header.jpeg
   image_description: "A description of the image"
-  actions:
-   - label: "More Info"
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
