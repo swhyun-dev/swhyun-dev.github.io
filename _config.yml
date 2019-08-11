@@ -274,9 +274,6 @@ tag_archive:
 
 #header
 
-header:
-  image: /assets/images/unsplash-image-4.jpg
-  image_description: "A description of the image"
 
 # HTML Compression
 # - http://jch.penibelst.de/
