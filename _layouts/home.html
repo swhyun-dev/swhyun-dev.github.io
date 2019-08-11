@@ -14,9 +14,6 @@
 </head>
 <body>
 <p class="p1"><span class="s1">--- layout: archive --- {{ content }}</span></p>
-<p class="p1"><span class="s1">header:</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>image: /assets/images/unsplash-image-4.jpg</span></p>
-<p class="p1"><span class="s1"><span class="Apple-converted-space">  </span>image_description: "A description of the image"</span></p>
 <p class="p2"><span class="s1"></span><br></p>
 <h3 style="margin: 0.0px 0.0px 14.0px 0.0px; line-height: 17.0px; font: 14.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</b></span></h3>
 <p class="p1"><span class="s1">{% for post in paginator.posts %} {% include archive-single.html %} {% endfor %} {% include paginator.html %}<span class="Apple-converted-space"> </span></span></p>
