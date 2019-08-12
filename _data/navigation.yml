@@ -1,9 +1,11 @@
 # main links
 main:
   - title: "블로그 방문하기"
-    url: https://swhyun-dev.github.io
+    url: https://swhyun-dev.github.io/
+
   - title: "About"
-    url: https://swhyun-dev.github.io/about/
+    url: /about/
+
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
