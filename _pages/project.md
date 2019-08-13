@@ -1,5 +1,5 @@
 ---
-title: "프로젝트"
+title: "PROJECT"
 permalink: /project/
 layout: single
 author_profile: true

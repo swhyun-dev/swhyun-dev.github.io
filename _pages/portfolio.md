@@ -1,5 +1,7 @@
 ---
-title: "포트폴리오"
+title: "PORTFOLIO"
+header:
+  image: /assets/images/header.jpeg
 permalink: /portfolio/
 author_profile: true
 layout: collection
