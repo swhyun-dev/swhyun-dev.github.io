@@ -2,12 +2,16 @@
 main:
   - title: "HOME"
     url: https://swhyun-dev.github.io/
+
   - title: "PORTFOLIO"
     url: /portfolio/
+
   - title: "PROJECT"
     url: /project/
+
   - title: "POST"
     url: /post/
+
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
