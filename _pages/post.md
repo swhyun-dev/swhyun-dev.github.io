@@ -1,7 +1,7 @@
 ---
 title: "POST"
 permalink: /post/
-author_profile: true
+author_profile: false
 layout: single
 sidebar:
   - title: "Title"
