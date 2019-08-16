@@ -1,11 +1,11 @@
 ---
-title:  "2019_08_09_TIL"
+title:  "2019_08_16_TIL"
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작하기로 했다."
 
 categories:
-  - Blog
+  - web
 tags:
-  - Blog
+  - jekyll
 last_modified_at: 2019-04-13T08:06:00-05:00
 ---
 
