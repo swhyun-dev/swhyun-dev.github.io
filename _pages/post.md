@@ -1,16 +1,6 @@
 ---
-title: "POST"
+title: "Post by Category"
 permalink: /post/
-author_profile: false
-layout: single
-sidebar:
-  - title: "Title"
-    image: http://placehold.it/350x250
-    image_alt: "image"
-    text: "Some text here."
-  - title: "Another Title"
-    text: "More text here."
-    nav: sidebar-sample
+author_profile: true
+layout: categories
 ---
-
-포스트 페이지...side bar 포함..
